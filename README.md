@@ -1,4 +1,4 @@
-# Hi there, I'm Ming 👋
+# Hi there, I'm Ming Henn👋
 
 ### 💻 Full Stack Developer | 🎓 Computer Science Student
 
