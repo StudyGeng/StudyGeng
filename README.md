@@ -10,7 +10,7 @@ I'm currently improving my programming skills and preparing to start my career a
 
 * 🎓 Studying for a **Bachelor's Degree in Computer Science**
 * 📍 Based in **Sarawak, Malaysia**
-* 💻 Interested in **Full Stack Web Development**
+* 💻 Interested in **Full Stack Development**
 * 🌱 Currently learning and improving **JavaScript, React, Python, Flask, SQL, and Git**
 * 🛠️ I enjoy building practical projects and learning new technologies
 * 🎯 Looking for **fresh graduate / junior Full Stack Developer opportunities**
